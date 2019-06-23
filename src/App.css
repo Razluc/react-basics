@@ -5,3 +5,12 @@ ul {
   list-style: none;
   padding-left: 0;
 }
+.searchingFor {
+  margin-top: 10px;
+}
+.searchingFor span {
+  font-weight: bold;
+}
+.hidden {
+  display: none;
+}
